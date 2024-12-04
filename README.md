@@ -27,5 +27,5 @@ docker-compose up -d
 
 ## Organisation des fichiers
 
-- **setup_docker.sh** : Script permettant d'automatiser la configuration de Docker.
+- **install_docker.sh** : Script permettant d'automatiser la configuration de Docker.
 - **docker-compose.yml** : Fichier de configuration Docker Compose pour orchestrer les différents services.
