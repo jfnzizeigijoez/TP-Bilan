@@ -13,7 +13,7 @@ Ce projet offre une solution simple et rapide pour mettre en place plusieurs app
 
 ## Procédure d'installation
 
-1. Télécharger le projet depuis un dépôt Git en ligne donc icc  ce sera : 
+1. Télécharger le projet depuis un dépôt Git en ligne donc ici ce sera : https://github.com/jfnzizeigijoez/TP-Bilan/tree/main
 2. Accéder au dossier en faisant cd Bilan.git
 3. Lancer le script de configuration pour installer Docker et préparer l'environnement.
 en faisant
