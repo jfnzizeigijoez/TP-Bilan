@@ -14,12 +14,16 @@ Ce projet offre une solution simple et rapide pour mettre en place plusieurs app
 ## Procédure d'installation
 
 1. Télécharger le projet depuis un dépôt Git en ligne donc icc  ce sera : 
-2. Accéder au dossier du projet.
+2. Accéder au dossier en faisant cd Bilan.git
 3. Lancer le script de configuration pour installer Docker et préparer l'environnement.
-4. Démarrer les services en utilisant Docker Compose.
-5. Une fois les services démarrés, vous pouvez accéder aux applications web via leur URL respective :
-   - **Application 1** : accessible à l'adresse IP locale sur le port 8000.
-   - **Application 2** : accessible à l'adresse IP locale sur le port 8001.
+en faisant
+chmod +x install_docker.sh
+./install_docker.sh
+5. Démarrer les services en utilisant Docker Compose.
+docker-compose up -d
+7. Une fois les services démarrés, vous pouvez accéder aux applications web via leur URL respective :
+   - **Application 1** : accessible à l'adresse IP locale sur le port 8080.
+   - **Application 2** : accessible à l'adresse IP locale sur le port 8081.
 
 ## Organisation des fichiers
 
