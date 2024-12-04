@@ -13,7 +13,7 @@ Ce projet offre une solution simple et rapide pour mettre en place plusieurs app
 
 ## Procédure d'installation
 
-1. Télécharger le projet depuis un dépôt Git en ligne.
+1. Télécharger le projet depuis un dépôt Git en ligne donc icc  ce sera : 
 2. Accéder au dossier du projet.
 3. Lancer le script de configuration pour installer Docker et préparer l'environnement.
 4. Démarrer les services en utilisant Docker Compose.
